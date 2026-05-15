@@ -1,4 +1,4 @@
-# 
+# premium NFT Wash Trading Bot for blur sniper bot | volume-analysis & cross-market-arbitrage is the best blur sniper bot, featuring volume-analysis and cross-market-arbitrage.
 
 
 
